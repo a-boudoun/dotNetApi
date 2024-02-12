@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abde\\Desktop\\api-app\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\abde\\Desktop\\dotNetApi\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abde\\Desktop\\api-app\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\abde\\Desktop\\dotNetApi\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abde\\Desktop\\api-app\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\abde\\Desktop\\dotNetApi\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\abde\\Desktop\\api-app\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\abde\\Desktop\\dotNetApi\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\abde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abde\\Desktop\\api-app\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\abde\\Desktop\\dotNetApi\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abde\\AppData\\Roaming\\NuGet\\NuGet.Config",
